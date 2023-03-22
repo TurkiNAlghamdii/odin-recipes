@@ -1,3 +1,3 @@
 # odin-recipes
 
-Project of an Index containing links to pages with recipes 
+Project of an Index page containing links to other pages with recipes 
