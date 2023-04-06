@@ -1,27 +1,50 @@
-
+body{
+    background-color: #74605B;
+}
+#card{
+    background-color: #AE948D;
+    width: 400px;
+    margin: 16px auto;
+    padding: 10px 16px;
+}
 h1{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
+    
 }
 h3{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* border:  4px black dotted; */
+    /* display: inline-block; */
+    width: 350px;
+    margin: 16px auto;
 }
 p{
     font-size: 18px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 350px;
+    margin: 0px auto;
 }
 .mainLink{
     font-size: 21px;
     font-family: sans-serif;
+    
    
 }
 img{
     height: auto;
     width: 250px;
-    display: flex;
-    align-items: center;
+    display: block;
+    width: 300px;
 }
 .list{
     font-size: 25px;
     font-family: sans-serif;
+}
+#mainList{
+    display: block;
+    margin: auto 400px;
+    
+    
+
 }
